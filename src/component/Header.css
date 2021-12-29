@@ -1,0 +1,8 @@
+.Header{
+    height: 50px;
+    position: fixed;
+    align-items: top;
+}
+.home{
+    display: flex;
+}
